@@ -1,5 +1,7 @@
 # Simple node CRUD structure with express
 
+![](https://img.shields.io/github/stars/Woodsphreaker/simple-node-crud) ![](https://img.shields.io/github/stars/Woodsphreaker/simple-node-crud) ![](https://img.shields.io/github/forks/Woodsphreaker/simple-node-crud) ![](https://img.shields.io/github/issues/Woodsphreaker/simple-node-crud)
+
 ### Installing
 
 Modules
